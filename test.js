@@ -1,1 +1,1 @@
-window.ELI_TEST = "hello v1";
+window.ELI_TEST = "hello v2";
